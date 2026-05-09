@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Power AI - A Free AI SaaS Website Template built with Astro",
+    "title": "Toste.xyz | Trusted Blockchains Validator",
     "base_url": "https://powerai-astro.pages.dev/",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "137",
     "logo_height": "46",
-    "logo_text": "Power AI"
+    "logo_text": "Toste.xyz"
   },
 
   "settings": {
