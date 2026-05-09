@@ -22,9 +22,9 @@
         "mega_menu_groups": [
           [
             {
-              "name": "Pricing",
+              "name": "Staking",
               "url": "/pricing",
-              "description": "View our pricing plans",
+              "description": "Crypto Staking",
               "icon": "HiOutlineTag"
             },
             {
