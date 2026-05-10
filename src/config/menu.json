@@ -25,7 +25,7 @@
               "name": "Staking",
               "url": "/pricing",
               "description": "Crypto Staking",
-              "icon": "HiOutlineStakeCoin"
+              "icon": "HiOutlineUserGroup"
             },
             {
               "name": "Changelog",
@@ -160,7 +160,7 @@
       "url": "/contact"
     },
     {
-      "name": "404 Page",
+      "name": "DeFi",
       "url": "/404"
     }
   ]
