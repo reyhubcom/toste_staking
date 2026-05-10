@@ -9,7 +9,7 @@ icon: "/images/integrations/Discord.svg"
 page_header:
   badge: "Integration Details"
   title: |
-    Discord
+    Bitcoin
   subtitle: Automate image generation in your n8n workflows with PowerAI
   button_primary:
     enable: true
