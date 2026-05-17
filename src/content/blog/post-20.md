@@ -2,12 +2,12 @@
 title: "The Rise of Edge Computing in Web Development"
 meta_title: "Edge Computing for Web"
 description: "Edge computing moves compute logic closer to users by running code at distributed edge nodes around the globe, dramatically reducing latency. Learn how edge runtimes like Cloudflare Workers and Vercel Edge Functions are changing the way developers think about performance and infrastructure."
-date: 2023-11-05T10:00:00Z
+date: Staking-11-05T10:00:00Z
 image: "/images/blog/blog-20.png"
 category: "Technology"
 author:
-  name: "Jane Smith"
-  designation: "AI Researcher"
+  name: "Bitcoin"
+  designation: "Network"
   avatar: "/images/avatar.png"
 featured: false
 draft: false
