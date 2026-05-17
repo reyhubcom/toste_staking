@@ -34,7 +34,7 @@
               "icon": "HiOutlineNewspaper"
             },
             {
-              "name": "Integrations",
+              "name": "Stake [ SOL ]",
               "url": "/integrations",
               "description": "Connect your favorite tools",
               "icon": "HiOutlineCog"
@@ -42,19 +42,19 @@
           ],
           [
             {
-              "name": "Blog",
+              "name": "Stake [ MON ]",
               "url": "/blog",
               "description": "Read our latest articles",
-              "icon": "HiOutlinePencil"
+              "icon": "HiOutlineUserGroup"
             },
             {
-              "name": "Case Study",
+              "name": "Stake [ bnb ]",
               "url": "/case-studies",
               "description": "See success stories",
               "icon": "HiOutlineChartBar"
             },
             {
-              "name": "Careers",
+              "name": "All Chains",
               "url": "/careers",
               "description": "Join our growing team",
               "icon": "HiOutlineUserGroup"
