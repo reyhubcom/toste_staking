@@ -6,8 +6,8 @@ date: 2022-05-15T08:30:00Z
 image: "/images/blog/blog-2.png"
 category: "Technology"
 author:
-  name: "Jane Smith"
-  designation: "AI Researcher"
+  name: "Blockchain"
+  designation: "Networks"
   avatar: "/images/avatars/avatar-2.jpg"
 featured: false
 draft: false
