@@ -13,7 +13,7 @@
       "url": "/integrations"
     },
     {
-      "name": "Pages",
+      "name": "Staking",
       "url": "",
       "hasChildren": true,
       "mega_menu": {
@@ -22,13 +22,13 @@
         "mega_menu_groups": [
           [
             {
-              "name": "Staking",
+              "name": "Bitcoin Staking",
               "url": "/pricing",
               "description": "Crypto Staking",
               "icon": "HiOutlineUserGroup"
             },
             {
-              "name": "Changelog",
+              "name": "Stake [ ETH ]",
               "url": "/changelog",
               "description": "Latest updates and fixes",
               "icon": "HiOutlineNewspaper"
